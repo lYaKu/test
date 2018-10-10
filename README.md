@@ -8,7 +8,7 @@ A demo version of this project can be found [here](https://riddle-bencomo.heroku
 
 # Project guidelines:
 # CREATE A 'RIDDLE-ME-THIS' GUESSING GAME
-nter their answer into a textarea and submit their ansing a form.
+nter their answer into a textarea and submit their ansing a 
 * If a player guesses correctly, they are redirected to the next riddle.
 * If a player guesses incorrectly, their incorrect guess is stored and printed below the riddle. The textarea is cleared so they can guess again.
 * Multiple players can play an instance of the game at the same time. Users are identified by a unique username.
